@@ -1,0 +1,2 @@
+# amazing-numbers
+Our program is finished. It can indicate many interesting properties of numbers, it knows how to calculate them. Now, when prompted, a user can have a list of number properties. The program has the ability to exclude a property from the search query. If a user puts a minus (-) before the property, exclude this property from the search query. For example, if a user specifies palindromic -duck, it means that they are looking for Palindromic numbers that are not Ducks.
